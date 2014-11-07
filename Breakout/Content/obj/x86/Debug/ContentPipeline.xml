@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont.spritefont</Source>
+      <Name>SpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\bin\x86\Debug\Content\SpriteFont.xnb</Output>
+      <Time>2010-11-03T23:51:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background_new.png</Source>
+      <Name>Background_new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\bin\x86\Debug\Content\Background_new.xnb</Output>
+      <Time>2010-11-05T05:53:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ball_new.png</Source>
+      <Name>Ball_new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\bin\x86\Debug\Content\Ball_new.xnb</Output>
+      <Time>2010-11-05T05:53:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Brick_new.png</Source>
+      <Name>Brick_new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\bin\x86\Debug\Content\Brick_new.xnb</Output>
+      <Time>2010-11-05T05:53:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gamemenu_new.png</Source>
+      <Name>Gamemenu_new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\bin\x86\Debug\Content\Gamemenu_new.xnb</Output>
+      <Time>2010-11-05T05:53:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gameover_new.png</Source>
+      <Name>Gameover_new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\bin\x86\Debug\Content\Gameover_new.xnb</Output>
+      <Time>2010-11-05T05:53:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gamewon_new.png</Source>
+      <Name>Gamewon_new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\bin\x86\Debug\Content\Gamewon_new.xnb</Output>
+      <Time>2010-11-05T05:53:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plate_new.png</Source>
+      <Name>Plate_new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\bin\x86\Debug\Content\Plate_new.xnb</Output>
+      <Time>2010-11-05T05:53:54+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\Content\</RootDirectory>
+      <LoggerRootDirectory>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Skola\Objektorienterad Spelprogrammering\Omgång 3\Breakout v1.4\Breakout\Breakout\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-17T17:42:06.7973752+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
